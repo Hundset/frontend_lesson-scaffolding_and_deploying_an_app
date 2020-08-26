@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <h1>Robin Larsen</h1>
+
+    <p>Hello world</p>
   </div>
 </template>
 
